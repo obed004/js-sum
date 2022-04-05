@@ -1,9 +1,9 @@
-var b = 50;
+/*var b = 50;
 console.log(b);
 document.writeln(b)
 document.getElementById("hello").innerHTML = "hello world";
 for (var i = 10; i<=50; i+=2){
-    document.writeln(i)
+    document.writeln(i)*/
     
 }
 //sum of all numbers 
